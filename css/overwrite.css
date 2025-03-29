@@ -1,0 +1,19 @@
+ul{
+    font-family: Times New Roman
+}
+
+ol{
+    font-family: sans-serif
+}
+
+ol{
+    font-style: bold
+}
+
+.italic{
+    font-style: italic
+}
+
+.size{
+    font-size: 16pt
+}
